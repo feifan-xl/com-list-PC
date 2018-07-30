@@ -1,0 +1,10 @@
+{
+	"checkbox231": ["id1", "id2"],
+	"info1": "12",
+	"date1": [1530720000000, 1534521600000],
+	"info3": "321",
+	"switch": true,
+	"select": "value2",
+	"radio": "id2",
+	"textarea": "321412412"
+}
